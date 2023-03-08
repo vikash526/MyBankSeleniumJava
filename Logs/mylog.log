@@ -1,0 +1,253 @@
+[INFO ] 2023-03-06 11:41:23.939 [main] MyBank - url opened
+[INFO ] 2023-03-06 11:41:25.152 [main] MyBank - go to the login/index page
+[INFO ] 2023-03-06 11:41:27.065 [main] MyBank - enter email/password and login
+[INFO ] 2023-03-06 11:44:39.835 [main] MyBank - url opened
+[INFO ] 2023-03-06 11:44:40.898 [main] MyBank - go to the login/index page
+[INFO ] 2023-03-06 11:44:43.621 [main] MyBank - enter email/password and login
+[INFO ] 2023-03-06 11:45:29.484 [main] MyBank - url opened
+[INFO ] 2023-03-06 11:45:30.456 [main] MyBank - go to the login/index page
+[INFO ] 2023-03-06 11:45:33.064 [main] MyBank - enter email/password and login
+[INFO ] 2023-03-06 11:46:05.720 [main] MyBank - url opened
+[INFO ] 2023-03-06 11:46:06.828 [main] MyBank - go to the login/index page
+[INFO ] 2023-03-06 11:46:09.250 [main] MyBank - enter email/password and login
+[INFO ] 2023-03-06 11:47:37.652 [main] MyBank - url opened
+[INFO ] 2023-03-06 11:47:38.743 [main] MyBank - go to the login/index page
+[INFO ] 2023-03-06 11:47:40.958 [main] MyBank - enter email/password and login
+[INFO ] 2023-03-06 11:52:45.479 [main] MyBank - url opened
+[INFO ] 2023-03-06 11:52:46.540 [main] MyBank - go to the login/index page
+[INFO ] 2023-03-06 11:52:48.500 [main] MyBank - enter email/password and login
+[INFO ] 2023-03-06 11:56:44.526 [main] MyBank - url opened
+[INFO ] 2023-03-06 11:56:46.544 [main] MyBank - go to the login/index page
+[INFO ] 2023-03-06 11:56:48.430 [main] MyBank - enter email/password and login
+[INFO ] 2023-03-06 12:03:19.497 [main] MyBank - url opened
+[INFO ] 2023-03-06 12:03:21.789 [main] MyBank - go to the login/index page
+[INFO ] 2023-03-06 12:03:24.576 [main] MyBank - enter email/password and login
+[INFO ] 2023-03-06 12:05:35.196 [main] MyBank - url opened
+[INFO ] 2023-03-06 12:05:37.414 [main] MyBank - go to the login/index page
+[INFO ] 2023-03-06 12:05:41.083 [main] MyBank - enter email/password and login
+[INFO ] 2023-03-06 12:09:59.188 [main] MyBank - url opened
+[INFO ] 2023-03-06 12:10:00.379 [main] MyBank - go to the login/index page
+[INFO ] 2023-03-06 12:10:03.018 [main] MyBank - enter email/password and login
+[INFO ] 2023-03-06 12:17:17.184 [main] MyBank - url opened
+[INFO ] 2023-03-06 12:17:18.252 [main] MyBank - go to the login/index page
+[INFO ] 2023-03-06 12:17:21.067 [main] MyBank - enter email/password and login
+[INFO ] 2023-03-06 12:19:02.150 [main] MyBank - url opened
+[INFO ] 2023-03-06 12:19:03.690 [main] MyBank - go to the login/index page
+[INFO ] 2023-03-06 12:19:05.714 [main] MyBank - enter email/password and login
+[INFO ] 2023-03-06 12:34:37.528 [main] MyBank - url opened
+[INFO ] 2023-03-06 12:34:38.710 [main] MyBank - go to the login/index page
+[INFO ] 2023-03-06 12:34:41.436 [main] MyBank - enter email/password and login
+[INFO ] 2023-03-06 12:34:41.481 [main] MyBank - login pass
+[INFO ] 2023-03-06 12:35:34.336 [main] MyBank - url opened
+[INFO ] 2023-03-06 12:35:36.208 [main] MyBank - go to the login/index page
+[INFO ] 2023-03-06 12:35:38.168 [main] MyBank - enter email/password and login
+[INFO ] 2023-03-06 12:35:38.223 [main] MyBank - login fail
+[INFO ] 2023-03-06 16:32:13.343 [main] MyBank - url opened
+[INFO ] 2023-03-06 16:32:14.518 [main] MyBank - go to the login/index page
+[INFO ] 2023-03-06 16:32:16.666 [main] MyBank - enter email/password and login
+[INFO ] 2023-03-06 16:32:16.981 [main] MyBank - login fail
+[INFO ] 2023-03-06 16:34:12.674 [main] MyBank - url opened
+[INFO ] 2023-03-06 16:34:13.940 [main] MyBank - go to the login/index page
+[INFO ] 2023-03-06 16:34:16.597 [main] MyBank - enter email/password and login
+[INFO ] 2023-03-06 16:34:16.642 [main] MyBank - login fail
+[INFO ] 2023-03-06 16:39:12.993 [main] MyBank - url opened
+[INFO ] 2023-03-06 16:39:16.347 [main] MyBank - go to the login/index page
+[INFO ] 2023-03-06 16:39:18.599 [main] MyBank - enter email/password and login
+[INFO ] 2023-03-06 16:39:19.055 [main] MyBank - login fail
+[INFO ] 2023-03-06 16:54:29.527 [main] MyBank - url opened
+[INFO ] 2023-03-06 16:54:30.993 [main] MyBank - go to the login/index page
+[INFO ] 2023-03-06 16:54:33.047 [main] MyBank - enter email/password and login
+[INFO ] 2023-03-06 16:54:33.142 [main] MyBank - login fail
+[INFO ] 2023-03-06 16:55:35.872 [main] MyBank - url opened
+[INFO ] 2023-03-06 16:55:37.059 [main] MyBank - go to the login/index page
+[INFO ] 2023-03-06 16:55:39.124 [main] MyBank - enter email/password and login
+[INFO ] 2023-03-06 16:55:39.166 [main] MyBank - login pass
+[INFO ] 2023-03-06 17:35:41.080 [main] MyBank - url opened
+[INFO ] 2023-03-06 17:35:44.582 [main] MyBank - go to the login/index page
+[INFO ] 2023-03-06 17:35:45.356 [main] MyBank - enter email/password and login
+[INFO ] 2023-03-06 17:35:49.165 [main] MyBank - go to the login/index page
+[INFO ] 2023-03-06 17:35:50.326 [main] MyBank - enter email/password and login
+[INFO ] 2023-03-06 17:39:01.628 [main] MyBank - url opened
+[INFO ] 2023-03-06 17:39:05.284 [main] MyBank - go to the login/index page
+[INFO ] 2023-03-06 17:39:06.080 [main] MyBank - enter email/password and login
+[INFO ] 2023-03-06 17:39:09.276 [main] MyBank - go to the login/index page
+[INFO ] 2023-03-06 17:39:09.926 [main] MyBank - enter email/password and login
+[INFO ] 2023-03-06 17:40:44.437 [main] MyBank - url opened
+[INFO ] 2023-03-06 17:40:48.655 [main] MyBank - go to the login/index page
+[INFO ] 2023-03-06 17:40:49.476 [main] MyBank - enter email/password and login
+[INFO ] 2023-03-06 17:40:51.699 [main] MyBank - go to the login/index page
+[INFO ] 2023-03-06 17:40:52.564 [main] MyBank - enter email/password and login
+[INFO ] 2023-03-06 17:44:33.000 [main] MyBank - url opened
+[INFO ] 2023-03-06 17:44:36.491 [main] MyBank - go to the login/index page
+[INFO ] 2023-03-06 17:44:37.379 [main] MyBank - enter email/password and login
+[INFO ] 2023-03-06 17:44:39.624 [main] MyBank - go to the login/index page
+[INFO ] 2023-03-06 17:44:40.330 [main] MyBank - enter email/password and login
+[INFO ] 2023-03-06 17:46:23.384 [main] MyBank - url opened
+[INFO ] 2023-03-06 17:46:26.802 [main] MyBank - go to the login/index page
+[INFO ] 2023-03-06 17:46:29.470 [main] MyBank - enter email/password and login
+[INFO ] 2023-03-06 17:46:29.559 [main] MyBank - login pass
+[INFO ] 2023-03-08 12:32:30.748 [main] MyBank - url opened
+[INFO ] 2023-03-08 12:32:33.647 [main] MyBank - login/index page opened
+[INFO ] 2023-03-08 12:32:36.513 [main] MyBank - entered email/password and login
+[INFO ] 2023-03-08 12:32:41.924 [main] MyBank - add account details submitted
+[INFO ] 2023-03-08 12:37:28.550 [main] MyBank - url opened
+[INFO ] 2023-03-08 12:37:30.789 [main] MyBank - entered email/password and login
+[INFO ] 2023-03-08 12:37:36.360 [main] MyBank - add account details submitted
+[INFO ] 2023-03-08 12:42:11.976 [main] MyBank - url opened
+[INFO ] 2023-03-08 12:42:14.182 [main] MyBank - entered email/password and login
+[INFO ] 2023-03-08 12:42:16.381 [main] MyBank - add account details submitted
+[INFO ] 2023-03-08 12:42:16.442 [main] MyBank - account no generated success
+[INFO ] 2023-03-08 12:46:35.679 [main] MyBank - url opened
+[INFO ] 2023-03-08 12:46:37.189 [main] MyBank - entered email/password and login
+[INFO ] 2023-03-08 12:46:39.846 [main] MyBank - add account details submitted
+[INFO ] 2023-03-08 12:46:39.881 [main] MyBank - account no generated success
+[INFO ] 2023-03-08 12:49:29.464 [main] MyBank - url opened
+[INFO ] 2023-03-08 12:49:31.546 [main] MyBank - entered email/password and login
+[INFO ] 2023-03-08 12:49:34.847 [main] MyBank - add account details submitted
+[INFO ] 2023-03-08 12:49:34.912 [main] MyBank - account no generated success
+[INFO ] 2023-03-08 12:57:37.821 [main] MyBank - url opened
+[INFO ] 2023-03-08 12:57:39.994 [main] MyBank - entered email/password and login
+[INFO ] 2023-03-08 12:57:43.683 [main] MyBank - add account details submitted
+[INFO ] 2023-03-08 12:57:43.724 [main] MyBank - account no generated success
+[INFO ] 2023-03-08 12:58:18.877 [main] MyBank - url opened
+[INFO ] 2023-03-08 12:58:20.331 [main] MyBank - entered email/password and login
+[INFO ] 2023-03-08 12:58:23.086 [main] MyBank - add account details submitted
+[INFO ] 2023-03-08 12:58:23.126 [main] MyBank - account no generated success
+[INFO ] 2023-03-08 12:59:45.176 [main] MyBank - url opened
+[INFO ] 2023-03-08 12:59:46.552 [main] MyBank - entered email/password and login
+[INFO ] 2023-03-08 12:59:49.047 [main] MyBank - add account details submitted
+[INFO ] 2023-03-08 12:59:49.100 [main] MyBank - account no generated success
+[INFO ] 2023-03-08 13:00:55.051 [main] MyBank - url opened
+[INFO ] 2023-03-08 13:00:57.710 [main] MyBank - entered email/password and login
+[INFO ] 2023-03-08 13:01:00.491 [main] MyBank - add account details submitted
+[INFO ] 2023-03-08 13:01:00.537 [main] MyBank - account no generated success
+[INFO ] 2023-03-08 13:03:23.552 [main] MyBank - url opened
+[INFO ] 2023-03-08 13:03:25.814 [main] MyBank - entered email/password and login
+[INFO ] 2023-03-08 13:03:28.879 [main] MyBank - add account details submitted
+[INFO ] 2023-03-08 13:03:28.956 [main] MyBank - account no generated success
+[INFO ] 2023-03-08 13:04:04.867 [main] MyBank - url opened
+[INFO ] 2023-03-08 13:04:06.897 [main] MyBank - entered email/password and login
+[INFO ] 2023-03-08 13:04:10.399 [main] MyBank - add account details submitted
+[INFO ] 2023-03-08 13:04:10.439 [main] MyBank - account no generated success
+[INFO ] 2023-03-08 14:48:04.159 [main] MyBank - url opened
+[INFO ] 2023-03-08 14:48:05.014 [main] MyBank - entered email/password and login
+[INFO ] 2023-03-08 14:48:08.732 [main] MyBank - add account details submitted
+[INFO ] 2023-03-08 14:48:08.773 [main] MyBank - account no generated success
+[INFO ] 2023-03-08 14:48:16.848 [main] MyBank - url opened
+[INFO ] 2023-03-08 14:48:19.154 [main] MyBank - entered email/password and login
+[INFO ] 2023-03-08 14:48:23.436 [main] MyBank - new customer details entered and submitted
+[INFO ] 2023-03-08 14:48:23.463 [main] MyBank - registeration passed
+[INFO ] 2023-03-08 14:48:30.364 [main] MyBank - url opened
+[INFO ] 2023-03-08 14:48:32.307 [main] MyBank - entered email/password and login
+[INFO ] 2023-03-08 14:48:35.949 [main] MyBank - money deposited
+[INFO ] 2023-03-08 14:52:32.692 [main] MyBank - url opened
+[INFO ] 2023-03-08 14:52:34.510 [main] MyBank - entered email/password and login
+[INFO ] 2023-03-08 14:52:37.247 [main] MyBank - money deposited
+[INFO ] 2023-03-08 14:54:46.569 [main] MyBank - url opened
+[INFO ] 2023-03-08 14:54:48.521 [main] MyBank - entered email/password and login
+[INFO ] 2023-03-08 14:54:51.358 [main] MyBank - money deposited
+[INFO ] 2023-03-08 14:55:31.332 [main] MyBank - url opened
+[INFO ] 2023-03-08 14:55:33.864 [main] MyBank - entered email/password and login
+[INFO ] 2023-03-08 14:55:38.418 [main] MyBank - money deposited
+[INFO ] 2023-03-08 14:56:13.400 [main] MyBank - url opened
+[INFO ] 2023-03-08 14:56:15.161 [main] MyBank - entered email/password and login
+[INFO ] 2023-03-08 14:56:17.732 [main] MyBank - money deposited
+[INFO ] 2023-03-08 14:56:24.563 [main] MyBank - url opened
+[INFO ] 2023-03-08 14:56:27.505 [main] MyBank - entered email/password and login
+[INFO ] 2023-03-08 14:56:33.218 [main] MyBank - add account details submitted
+[INFO ] 2023-03-08 14:56:33.255 [main] MyBank - account no generated success
+[INFO ] 2023-03-08 14:56:40.024 [main] MyBank - url opened
+[INFO ] 2023-03-08 14:56:42.648 [main] MyBank - entered email/password and login
+[INFO ] 2023-03-08 14:56:47.362 [main] MyBank - new customer details entered and submitted
+[INFO ] 2023-03-08 15:45:55.475 [main] MyBank - url opened
+[INFO ] 2023-03-08 15:45:57.938 [main] MyBank - entered email/password and login
+[INFO ] 2023-03-08 15:46:02.862 [main] MyBank - money deposited
+[INFO ] 2023-03-08 15:46:10.992 [main] MyBank - url opened
+[INFO ] 2023-03-08 15:46:12.401 [main] MyBank - entered email/password and login
+[INFO ] 2023-03-08 15:46:16.395 [main] MyBank - add account details submitted
+[INFO ] 2023-03-08 15:46:16.450 [main] MyBank - account no generated success
+[INFO ] 2023-03-08 15:56:02.099 [main] MyBank - url opened
+[INFO ] 2023-03-08 15:56:06.513 [main] MyBank - entered email/password and login
+[INFO ] 2023-03-08 15:56:12.582 [main] MyBank - money deposited
+[INFO ] 2023-03-08 15:56:20.555 [main] MyBank - url opened
+[INFO ] 2023-03-08 15:56:22.877 [main] MyBank - entered email/password and login
+[INFO ] 2023-03-08 15:56:29.263 [main] MyBank - add account details submitted
+[INFO ] 2023-03-08 15:56:29.312 [main] MyBank - account no generated success
+[INFO ] 2023-03-08 15:57:19.223 [main] MyBank - url opened
+[INFO ] 2023-03-08 15:57:22.339 [main] MyBank - entered email/password and login
+[INFO ] 2023-03-08 15:57:26.569 [main] MyBank - money deposited
+[INFO ] 2023-03-08 15:57:34.076 [main] MyBank - url opened
+[INFO ] 2023-03-08 15:57:38.009 [main] MyBank - entered email/password and login
+[INFO ] 2023-03-08 15:57:43.914 [main] MyBank - add account details submitted
+[INFO ] 2023-03-08 15:57:43.961 [main] MyBank - account no generated success
+[INFO ] 2023-03-08 16:46:51.345 [main] MyBank - url opened
+[INFO ] 2023-03-08 16:46:52.793 [main] MyBank - entered email/password and login
+[INFO ] 2023-03-08 16:46:58.827 [main] MyBank - money deposited
+[INFO ] 2023-03-08 16:47:06.405 [main] MyBank - url opened
+[INFO ] 2023-03-08 16:47:08.403 [main] MyBank - entered email/password and login
+[INFO ] 2023-03-08 16:47:12.095 [main] MyBank - add account details submitted
+[INFO ] 2023-03-08 16:47:12.155 [main] MyBank - account no generated success
+[INFO ] 2023-03-08 16:59:01.570 [main] MyBank - url opened
+[INFO ] 2023-03-08 16:59:02.768 [main] MyBank - entered email/password and login
+[INFO ] 2023-03-08 16:59:07.569 [main] MyBank - money deposited
+[INFO ] 2023-03-08 16:59:15.865 [main] MyBank - url opened
+[INFO ] 2023-03-08 16:59:18.247 [main] MyBank - entered email/password and login
+[INFO ] 2023-03-08 16:59:24.939 [main] MyBank - add account details submitted
+[INFO ] 2023-03-08 16:59:24.994 [main] MyBank - account no generated success
+[INFO ] 2023-03-08 18:24:49.951 [main] MyBank - url opened
+[INFO ] 2023-03-08 18:24:54.736 [main] MyBank - entered email/password and login
+[INFO ] 2023-03-08 18:25:00.667 [main] MyBank - money deposited
+[INFO ] 2023-03-08 18:25:09.527 [main] MyBank - url opened
+[INFO ] 2023-03-08 18:25:12.837 [main] MyBank - entered email/password and login
+[INFO ] 2023-03-08 18:25:18.819 [main] MyBank - add account details submitted
+[INFO ] 2023-03-08 18:25:18.863 [main] MyBank - account no generated success
+[INFO ] 2023-03-08 18:28:57.355 [main] MyBank - url opened
+[INFO ] 2023-03-08 18:29:00.034 [main] MyBank - entered email/password and login
+[INFO ] 2023-03-08 18:29:02.269 [main] MyBank - money deposited
+[INFO ] 2023-03-08 18:29:10.780 [main] MyBank - url opened
+[INFO ] 2023-03-08 18:29:13.098 [main] MyBank - entered email/password and login
+[INFO ] 2023-03-08 18:29:15.915 [main] MyBank - add account details submitted
+[INFO ] 2023-03-08 18:29:16.018 [main] MyBank - account no generated success
+[INFO ] 2023-03-08 18:29:59.749 [main] MyBank - url opened
+[INFO ] 2023-03-08 18:30:02.094 [main] MyBank - entered email/password and login
+[INFO ] 2023-03-08 18:30:04.427 [main] MyBank - money deposited
+[INFO ] 2023-03-08 18:30:12.486 [main] MyBank - url opened
+[INFO ] 2023-03-08 18:30:14.840 [main] MyBank - entered email/password and login
+[INFO ] 2023-03-08 18:49:57.014 [main] MyBank - url opened
+[INFO ] 2023-03-08 18:50:00.180 [main] MyBank - entered email/password and login
+[INFO ] 2023-03-08 18:50:04.822 [main] MyBank - money deposited
+[INFO ] 2023-03-08 19:09:28.175 [main] MyBank - url opened
+[INFO ] 2023-03-08 19:09:32.972 [main] MyBank - go to the login/index page
+[INFO ] 2023-03-08 19:09:36.524 [main] MyBank - enter email/password and login
+[INFO ] 2023-03-08 19:09:36.608 [main] MyBank - login pass
+[INFO ] 2023-03-08 19:09:40.757 [main] MyBank - go to the login/index page
+[INFO ] 2023-03-08 19:09:43.002 [main] MyBank - enter email/password and login
+[INFO ] 2023-03-08 19:09:43.608 [main] MyBank - login pass
+[INFO ] 2023-03-08 19:10:18.306 [main] MyBank - url opened
+[INFO ] 2023-03-08 19:10:23.351 [main] MyBank - go to the login/index page
+[INFO ] 2023-03-08 19:10:26.048 [main] MyBank - enter email/password and login
+[INFO ] 2023-03-08 19:10:26.098 [main] MyBank - login pass
+[INFO ] 2023-03-08 19:10:28.366 [main] MyBank - go to the login/index page
+[INFO ] 2023-03-08 19:10:29.908 [main] MyBank - enter email/password and login
+[INFO ] 2023-03-08 19:10:29.994 [main] MyBank - login pass
+[INFO ] 2023-03-08 19:13:17.350 [main] MyBank - url opened
+[INFO ] 2023-03-08 19:13:24.019 [main] MyBank - go to the login/index page
+[INFO ] 2023-03-08 19:13:26.872 [main] MyBank - enter email/password and login
+[INFO ] 2023-03-08 19:13:26.921 [main] MyBank - login pass
+[INFO ] 2023-03-08 19:13:33.452 [main] MyBank - go to the login/index page
+[INFO ] 2023-03-08 19:13:36.051 [main] MyBank - enter email/password and login
+[INFO ] 2023-03-08 19:13:36.092 [main] MyBank - login pass
+[INFO ] 2023-03-08 19:23:05.607 [main] MyBank - url opened
+[INFO ] 2023-03-08 19:23:13.602 [main] MyBank - go to the login/index page
+[INFO ] 2023-03-08 19:23:17.681 [main] MyBank - enter email/password and login
+[INFO ] 2023-03-08 19:23:17.744 [main] MyBank - login pass
+[INFO ] 2023-03-08 19:23:23.195 [main] MyBank - go to the login/index page
+[INFO ] 2023-03-08 19:23:26.349 [main] MyBank - enter email/password and login
+[INFO ] 2023-03-08 19:23:26.398 [main] MyBank - login pass
+[INFO ] 2023-03-08 19:51:10.494 [main] MyBank - url opened
+[INFO ] 2023-03-08 19:51:13.598 [main] MyBank - go to the login/index page
+[INFO ] 2023-03-08 19:51:15.558 [main] MyBank - enter email/password and login
+[INFO ] 2023-03-08 19:51:15.602 [main] MyBank - login pass
+[INFO ] 2023-03-08 19:51:19.202 [main] MyBank - go to the login/index page
+[INFO ] 2023-03-08 19:51:20.990 [main] MyBank - enter email/password and login
+[INFO ] 2023-03-08 19:51:21.027 [main] MyBank - login pass

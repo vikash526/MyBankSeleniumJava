@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="3" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-08T19:22:52 IST" name="Suite" finished-at="2023-03-08T19:23:28 IST" duration-ms="35029">
+    <groups>
+    </groups>
+    <test started-at="2023-03-08T19:22:52 IST" name="Test" finished-at="2023-03-08T19:23:28 IST" duration-ms="35029">
+      <class name="com.mybank.testcase.TC_MyAccountPage2DataDriven">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.mybank.testcase.TC_MyAccountPage2DataDriven@2a798d51]" started-at="2023-03-08T19:22:53 IST" name="setup" finished-at="2023-03-08T19:23:05 IST" duration-ms="11934" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyRegisteredUser(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.mybank.testcase.TC_MyAccountPage2DataDriven@2a798d51]" started-at="2023-03-08T19:23:07 IST" name="verifyRegisteredUser" data-provider="LoginDataProider" finished-at="2023-03-08T19:23:19 IST" duration-ms="11559" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mngr460574]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[utytebY]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Welcome To Manager's Page of Guru99 Bank]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyRegisteredUser -->
+        <test-method signature="verifyRegisteredUser(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.mybank.testcase.TC_MyAccountPage2DataDriven@2a798d51]" started-at="2023-03-08T19:23:19 IST" name="verifyRegisteredUser" data-provider="LoginDataProider" finished-at="2023-03-08T19:23:27 IST" duration-ms="7934" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mngr482955]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Ysazyhy]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Welcome To Manager's Page of Guru99 Bank]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyRegisteredUser -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.mybank.testcase.TC_MyAccountPage2DataDriven@2a798d51]" started-at="2023-03-08T19:23:27 IST" name="teardown" finished-at="2023-03-08T19:23:28 IST" duration-ms="556" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.mybank.testcase.TC_MyAccountPage2DataDriven -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
